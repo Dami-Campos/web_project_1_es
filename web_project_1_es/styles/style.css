@@ -368,7 +368,7 @@ overflow: hidden;
     font-size: 18px;
     font-weight: normal;
     color: white;
-    font-style: none;
+    text-decoration: none;
   }
 
   .footer_column-link {
