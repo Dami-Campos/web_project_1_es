@@ -36,6 +36,8 @@ z-index: 5;
   font-weight: bold;
   position: absolute;
   left: 64px;
+  position: relative;
+  z-index: 5;
   }
   
  
@@ -47,6 +49,8 @@ z-index: 5;
     line-height: 25px;
     font-size: 18px;
     font-weight: normal;
+    position: relative;
+  z-index: 5;
   }
    
   .header__link {
@@ -54,6 +58,8 @@ z-index: 5;
     font-size: 18px;
     font-weight: normal;
     text-decoration: none;
+    position: relative;
+  z-index: 5;
   }
    
   .header__main-illustration {
@@ -78,7 +84,6 @@ z-index: 5;
   }
    
   .description {
-   width: 80%;
   margin: 0 auto;
   display: flex;
   justify-content: center;
@@ -256,6 +261,8 @@ overflow: hidden;
   text-align: center;
   margin-bottom: 20px;
   margin-top: 90px;
+  position: relative;
+    z-index: 5;
 }
 
 .section-subtitle_theme_dark{
@@ -267,6 +274,8 @@ overflow: hidden;
   color:  white;
   margin-bottom: 0;
   text-align: center;
+  position: relative;
+    z-index: 5;
 }
 .triangle {
   width: 660;
@@ -287,6 +296,7 @@ overflow: hidden;
   .table__cell_theme_dark {
     display: flex;
     position: relative;
+    z-index: 5;
    flex-wrap: wrap;
    justify-content: space-around;
     color: white;
@@ -322,6 +332,7 @@ overflow: hidden;
 
   .footer-columns {
    width: 90%;
+   margin: 0 auto;
    margin-top: 60px;
    margin-bottom: 40px;
     display: flex;
@@ -393,5 +404,3 @@ overflow: hidden;
     text-decoration: none;
   }
 
-
-  
