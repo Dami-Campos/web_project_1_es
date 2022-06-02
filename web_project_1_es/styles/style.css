@@ -36,7 +36,6 @@ z-index: 5;
   font-weight: bold;
   position: absolute;
   left: 64px;
-  position: relative;
   z-index: 5;
   }
   
@@ -49,7 +48,6 @@ z-index: 5;
     line-height: 25px;
     font-size: 18px;
     font-weight: normal;
-    position: relative;
   z-index: 5;
   }
    
@@ -403,4 +401,3 @@ overflow: hidden;
     color: white;
     text-decoration: none;
   }
-
