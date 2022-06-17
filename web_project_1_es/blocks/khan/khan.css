@@ -1,0 +1,72 @@
+    .khan {
+    background-color: #F2F2F2;  
+    margin-top: 100px;
+    overflow: hidden;
+    }
+    
+    .khan_container {
+    width: 80%;
+    margin: 0 auto;
+    }
+    
+    .khan_author {
+    text-align: left;
+    margin-top: 150px;
+    line-height: 42px;
+    font-size: 30px;
+    font-weight: normal;
+    }
+    
+    .khan_title {
+    text-align: left;
+    line-height: 1.15;
+    font-size: 60px;
+    font-weight: bold;
+    }
+    
+    .khan_quote {
+    width: 790px;
+    margin-top: 50px;
+    margin-bottom: 36px;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+    }
+    
+    .khan_quote-author {
+    margin-bottom: 10px;
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: bold;
+    }
+    
+    .khan_quote-author-subline {
+    margin-bottom: 68px;
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: normal;
+    }
+    
+    .khan_book-container {
+    display: flex;
+    position: relative;
+    }
+    
+    .khan_book-pick {
+    margin-left: 0;
+    width: 620px;
+    height: 608px;
+    margin-bottom: -250px;
+    }
+    
+    .khan_buy-link {
+    margin-left: 48px;
+    line-height: 42px;
+    font-size: 30px;
+     font-weight: normal;
+     text-decoration: none;
+     transition-duration: 2s;
+    }
+    .khan_buy-link:hover {
+    opacity: 0.5;
+    }

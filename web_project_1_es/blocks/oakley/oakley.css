@@ -1,0 +1,43 @@
+.oakley {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+    background-color: #F2F2F2;
+    position: relative;
+    overflow: visible;
+    }
+  
+    .oakley_two-columns {
+     width: 80%;
+     display: flex;
+     position: relative;
+     justify-content: space-between;
+     margin-top: 160px;
+     margin-bottom: 80px;
+    }
+  
+    .oakley_two-columns__brief {
+    width: 175px;
+      line-height: 1.2;
+    font-size: 18px;
+    font-weight: normal;
+    color: #2F80ED;
+    margin-top: 0;
+    }
+  
+    .oakley_two-columns__main-text {
+      width: 80%;
+      min-width: 784px;
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+    }
+  
+    .oakley_two-columns__paragraph {
+      line-height: 34px;
+      font-size: 24px;
+      font-weight: normal;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
