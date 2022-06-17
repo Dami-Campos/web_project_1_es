@@ -1,4 +1,4 @@
-    .khan {
+        .khan {
     background-color: #F2F2F2;
     margin-top: 100px;
     overflow: hidden;
@@ -33,33 +33,33 @@
     font-weight: normal;
     }
     
-    .khan__quote_author {
+    .khan__quote-author {
     margin-bottom: 10px;
     line-height: 1.15;
     font-size: 24px;
     font-weight: bold;
     }
     
-    .khan__quote_author_subline {
+    .khan__quote-author_subline {
     margin-bottom: 68px;
     line-height: 1.15;
     font-size: 24px;
     font-weight: normal;
     }
     
-    .khan__book_container {
+    .khan__book-container {
     display: flex;
     position: relative;
     }
     
-    .khan__book_pick {
+    .khan__book-pick {
     margin-left: 0;
     width: 620px;
     height: 608px;
     margin-bottom: -250px;
     }
     
-    .khan__buy_link {
+    .khan__buy-link {
     margin-left: 48px;
     line-height: 42px;
     font-size: 30px;
