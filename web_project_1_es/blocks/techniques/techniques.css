@@ -35,7 +35,7 @@
     margin-right: 100px;
    }
    
-   .cards_image {
+   .techniques-cards__image {
    width: 160px;
    height: 160px;
      border-radius:80px;
@@ -45,14 +45,14 @@
      margin-right: 40px;
    }
    
-   .cards_title {
+   .techniques-cards__title {
      line-height: 1.15;
      font-size: 24px;
      font-weight: bold;
      margin-top: 43px;
    }
    
-   .cards_description {
+   .techniques-cards__description {
      line-height: 23px;
      font-size: 18px;
      font-weight: normal;
