@@ -8,7 +8,7 @@
     overflow: visible;
     }
   
-    .oakley_two-columns {
+    .oakley-two-columns {
      width: 80%;
      display: flex;
      position: relative;
@@ -17,7 +17,7 @@
      margin-bottom: 80px;
     }
   
-    .oakley_two-columns__brief {
+    .oakley-two-columns__brief {
     width: 175px;
       line-height: 1.2;
     font-size: 18px;
