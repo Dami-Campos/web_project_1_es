@@ -7,7 +7,7 @@
     }
     
     
-    .kaufman__title_theme_dark{
+    .kaufman__title_theme-dark{
       width: 60%;
       margin: 0 auto;
       line-height: 1.15;
@@ -21,7 +21,7 @@
         z-index: 5;
     }
     
-    .kaufman__subtitle_theme_dark{
+    .kaufman__subtitle_theme-dark{
       width: 60%;
       margin: 0 auto;
       line-height: 34px;
@@ -43,14 +43,14 @@
       animation: rotation 20s linear infinite;
       }
     
-    .kaufman__table_theme_dark {
+    .kaufman__table_theme-dark {
       width: 1100px;
       display: flex;
       position: relative;
       margin: 0 auto;
     }
     
-      .kaufman__table__cell_theme_dark {
+      .kaufman__table-cell_theme-dark {
         display: flex;
         position: relative;
         z-index: 5;
@@ -62,7 +62,7 @@
         margin-bottom: 10px;
       }
     
-      .kaufman__table_heading_theme_dark {
+      .kaufman__table-heading_theme-dark {
         width: 200px;
         line-height: 1.15;
         font-size: 24px;
@@ -71,7 +71,7 @@
         z-index: 10;
       }
     
-      .kaufman__table_text_theme_dark {
+      .kaufman__table-text_theme-dark {
       width: 200px;
       line-height: 1.2;
       font-size: 18px;
