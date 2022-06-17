@@ -22,7 +22,7 @@
     margin: 0 auto;
 }
 
-.digits-table {
+.digits__table-table {
  width: 1100px;
  display: flex;
  margin: 0 auto;
@@ -43,7 +43,7 @@ li{
   list-style: none;
 }
 
-.table_heading {
+.digits__table-heading {
   width: 250px;
   line-height: 1.15;
   font-size: 24px;
@@ -52,7 +52,7 @@ li{
   margin-top: 60px;
 }
 
-.table_text {
+.digits__table-text {
   width: 250px;
   line-height: 1.2;
   font-size: 18px;
