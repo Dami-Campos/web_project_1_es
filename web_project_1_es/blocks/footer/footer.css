@@ -15,14 +15,14 @@
 
   }
 
-  .footer__column-content_copyright {
+  .footer__column_content-copyright {
     flex-basis: 711px;
     display: flex;
    flex-direction: column;
    justify-content: space-between;
   }
 
-  .footer__logo-place_footer {
+  .footer__logo_place-footer {
     width: 183px;
     height: 35px;
   }
@@ -40,7 +40,7 @@
    flex-direction: column;
   }
 
-  .footer__column-content_about {
+  .footer__column_content-about {
     margin-bottom: 20px;
     line-height: 30px;
     font-size: 18px;
@@ -70,7 +70,7 @@
     margin-right: 10px;
   }
 
-  .footer__column-content_social {
+  .footer__column_content-social {
     line-height: 30px;
     font-size: 18px;
     font-weight: bold;
