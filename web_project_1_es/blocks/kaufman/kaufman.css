@@ -6,7 +6,7 @@
     overflow: hidden;
     }
     
-    .kaufman-title{
+    .section-title__theme_dark{
       width: 60%;
       margin: 0 auto;
       line-height: 1.15;
@@ -20,7 +20,7 @@
         z-index: 5;
     }
     
-    .kaufman-subtitle{
+    .section-subtitle__theme_dark{
       width: 60%;
       margin: 0 auto;
       line-height: 34px;
@@ -32,7 +32,7 @@
       position: relative;
         z-index: 5;
     }
-    .triangle {
+    .kaufman__triangle {
       width: 660;
       height: 636;
       position: absolute;
