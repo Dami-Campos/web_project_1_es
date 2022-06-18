@@ -6,7 +6,7 @@
     overflow: hidden;
     }
     
-    .section-title__theme_dark{
+    .kaufman__section-title{
       width: 60%;
       margin: 0 auto;
       line-height: 1.15;
@@ -20,7 +20,7 @@
         z-index: 5;
     }
     
-    .section-subtitle__theme_dark{
+    .kaufman__section-subtitle{
       width: 60%;
       margin: 0 auto;
       line-height: 34px;
