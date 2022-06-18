@@ -3,7 +3,7 @@
    flex-direction: column;
   }
 
-  .footer__column-content_about {
+  .footer__column_content_about {
     margin-bottom: 20px;
     line-height: 30px;
     font-size: 18px;
@@ -33,11 +33,10 @@
     margin-right: 10px;
   }
 
-  .footer__column-content_social {
+  .footer__column_content_social {
     line-height: 30px;
     font-size: 18px;
     font-weight: bold;
     color: white;
     text-decoration: none;
   }
-
