@@ -1,4 +1,4 @@
-    .khan {
+       .khan {
     background-color: #F2F2F2;
     margin-top: 100px;
     overflow: hidden;
@@ -53,10 +53,10 @@
     }
     
     .khan__book-pick {
-    margin-left: 0;
     width: 620px;
     height: 608px;
-    margin-bottom: -250px;
+    object-fit: cover;
+    object-position: top;
     }
     
     .khan__buy-link {
