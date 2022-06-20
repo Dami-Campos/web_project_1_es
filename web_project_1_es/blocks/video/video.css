@@ -24,17 +24,16 @@ overflow: visible;
 }
 
 .video-iframes {
-display: flex;
-justify-content: stretch;
-position: relative;
+    display: flex;
+    justify-content: center;
 }
 
 .video-iframe {
-    margin: 0 auto;
     width: 515px;
     height: 316px;
     border: none;
     margin-bottom: -100px;
-
+    position: relative;
+    z-index: 6;
+    margin-left: 20px;
 }
-  
