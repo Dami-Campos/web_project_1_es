@@ -1,7 +1,7 @@
 .techniques {
     margin-bottom: 100px;
    margin-bottom: 100px;
-     }
+}
    
 
     .techniques-title {
@@ -25,7 +25,7 @@
    }
    
    .techniques-cards {
-    width: 920px; 
+    width: 920px;
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
